@@ -1,7 +1,6 @@
 # CodeAlpha_Music_Generation_With_AI
 # 🎵 Music Generation AI using LSTM
-<img width="800" height="600" alt="generated_music" src="https://github.com/user-attachments/assets/513acea0-68b7-44ae-ae43-c9aa204ec103" />
-[generated.mp3](https://github.com/user-attachments/files/30202956/generated.mp3)
+<img width="800" height="600" alt="generated_music" src="https://github.com/user-attachments/assets/5f162143-ac8c-4f34-8735-dbe59c463b6f" />
 
 ## Overview
 
