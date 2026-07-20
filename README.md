@@ -289,7 +289,7 @@ pip install tensorflow music21 numpy
 Command
 
 ```bash
-git clone https://github.com/yourusername/Music-Generation-AI.git
+git clone https://github.com/omnia-ghonem/Music-Generation-AI.git
 ```
 
 Move into the project directory
@@ -474,20 +474,3 @@ AI-based music generation has many practical applications:
 - Creative AI applications.
 
 ---
-
-# Future Improvements
-
-Possible enhancements include:
-
-- Train on larger and more diverse MIDI datasets.
-- Learn rhythm, note duration, velocity, and tempo.
-- Use Transformer-based models.
-- Apply temperature-based probabilistic sampling.
-- Export directly to WAV or MP3.
-- Build a graphical user interface (GUI).
-
----
-
-# License
-
-This project is intended for educational purposes and demonstrates the complete pipeline of AI-based music generation using deep learning, from MIDI preprocessing to music generation.
